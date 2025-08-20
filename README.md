@@ -10,7 +10,7 @@ A small always-on-top toast for MicroSIP incoming calls. Resolves the number aga
 ![Known](Notificiation_Known_Number.jpg)
 
 **Unknown number:**  
-![Unknown](Unknown_Caller.jpg)
+![Unknown](Unknown_Number.jpg)
 
 ---
 
@@ -24,15 +24,13 @@ Place these in the same folder as the script:
 - `Restaurant.png`
 - `unknown.png`
 
-### Icon set (2×2 grid)
-
 | Retail.png | Energy.png |
 |------------|------------|
-| <img src="Retail.png" width="100"/> | <img src="Energy.png" width="100"/> |
+| <img src="Retail.png" width="200"/> | <img src="Energy.png" width="200"/> |
 
 | Restaurant.png | unknown.png |
 |----------------|-------------|
-| <img src="Restaurant.png" width="100"/> | <img src="unknown.png" width="100"/> |
+| <img src="Restaurant.png" width="200"/> | <img src="unknown.png" width="200"/> |
 
 
 ## Features
